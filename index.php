@@ -8,5 +8,9 @@
 <body>
     <h1> Hellow World </h1>
     <p> New texts optio provident!</p>
+    <ul>
+    <li> satu </li>
+    <li>dua </li>
+    </ul>
 </body>
 </html>
